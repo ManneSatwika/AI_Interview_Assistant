@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+pdfplumber
+reportlab
+streamlit-audiorecorder
+numpy
+scipy
+sounddevice
